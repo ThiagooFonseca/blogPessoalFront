@@ -1,0 +1,8 @@
+#img-bg{
+    background-image: url('https://meups.com.br/wp-content/uploads/2018/11/Capa-2.jpg');
+
+min-height: 695px;
+background-position: center;
+background-repeat: no-repeat ;
+background-size: cover ;
+}
